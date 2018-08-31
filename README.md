@@ -9,7 +9,7 @@ It prints where you're AT!). But I did not want my interpreter to break all
 your previous code that contains `@` in the comments, so I did not include this
 feature as default. There are three ways to invoke the special behavior:
 
-```python
+```bash
 python bfp.py <path/to/bf/file> [--at|--easy|-e]
 ```
 
